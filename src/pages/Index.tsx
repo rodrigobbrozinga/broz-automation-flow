@@ -182,7 +182,7 @@ const Index = () => {
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
               <Button variant="outline" size="lg" className="border-white text-white hover:bg-white/10 px-8 py-4 text-lg">
-                (11) 99999-9999
+                (31) 99120-9807
               </Button>
             </div>
           </CardContent>
@@ -222,8 +222,8 @@ const Index = () => {
               <h3 className="text-lg font-semibold mb-4">Contato</h3>
               <div className="space-y-2 text-gray-400">
                 <p>contato@automacoesbroz.com.br</p>
-                <p>(11) 99999-9999</p>
-                <p>São Paulo, SP</p>
+                <p>(31) 99120-9807</p>
+                <p>Belo Horizonte, MG</p>
               </div>
             </div>
           </div>

@@ -1,8 +1,8 @@
-
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { MessageSquare, Bot, Zap, TrendingUp, CheckCircle, ArrowRight, Users, Clock, Target, BarChart3, Smartphone, MessageCircle, Instagram, Send, Calendar, FileText, Headphones } from "lucide-react";
+import FaviconGenerator from "@/components/FaviconGenerator";
 
 const Index = () => {
   const services = [
@@ -50,6 +50,7 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100">
+      <FaviconGenerator />
       {/* Header */}
       <header className="container mx-auto px-4 py-6">
         <nav className="flex items-center justify-between">
